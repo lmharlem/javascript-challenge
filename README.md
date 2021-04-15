@@ -1,51 +1,71 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# Introduction to JavaScript - JavaScript and DOM Manipulation
+
+![UFO pic](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-1/static/images/ufo.jpg)
 
 ## Background
 
-WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
+WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
 
 There is just one tiny problem though... our collection is too large to search through manually. Even our most dedicated followers are complaining that they are having trouble locating specific reports in this mess.
 
-That's why we are hiring you. We need you to write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
+So we wrote a code that will create a table dynamically based upon the dataset provided. We also allowed our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
 
-You can handle this... right? The planet Earth needs to know what we have found!
+## Data
 
-## Your Task
+<img align="right" width="200" height="200" src="https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-1/static/images/alien.jfif">
+- Found here [data.js](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-1/static/js/data.js)
+- Contains list of JavaScript Objects
+- Example of one object:
+        
+        datetime: "1/1/2010",
+        city: "benton",
+        state: "ar",
+        country: "us",
+        shape: "circle",
+        durationMinutes: "5 mins.",
+        comments: "4 bright green circles high in the sky going in circles then one bright green light at my front door."
 
-### Before You Begin
+## UFO Level 1: Automatic Table and Date Search
 
-1. Create a new repository for this project called `javascript-challenge`. **Do not add this homework to an existing repository**.
+- Used the [index.html](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-1/index.html) file provided.
+- Using the UFO dataset provided in the form of an array of JavaScript objects, I wrote code [app.js](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-1/static/js/app.js) that appends a table to the web page and then adds new rows of data for each UFO sighting.
+- There is a column for date/time, city, state, country, shape, and comment.
+- Used a date form in your HTML document and wrote JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
-2. Clone the new repository to your computer.
+## UFO Level 2: Multiple Search Categories
 
-3. Inside your local git repository, create a directory for the Javascript challenge. Use the folder names to correspond to the challenges: **UFO-level-1** and **UFO-level-2**.
+- Included all criteria from Level 1
+- Added multiple input tags and/or select dropdowns, wrote JavaScript code [app.js](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-2/static/js/app.js) so the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
-4. Add your **html** files to this folder as well as your static folder containing your javascript. This will be the main script to run for analysis.
+        1. date/time
+        2. city
+        3. state
+        4. country
+        5. shape
 
-5. Push the above changes to GitHub or GitLab.
+## Screenshots of web page
 
-6. Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+### Level 1
 
-### Level 1: Automatic Table and Date Search (Required)
+No filter added
+![no filter](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-1/static/images/screenshot-no_filter.PNG)
 
-* Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
+With Filter
+![filtered](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-1/static/images/screenshot-with_filter.PNG)
 
-* Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
+### Level 2
 
-  * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
+No filter added
 
-* Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
+![no filter](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-2/static/images/screenshot-no_filter.PNG)
 
-### Level 2: Multiple Search Categories (Optional)
+With Filter
 
-* Complete all of Level 1 criteria.
+![filtered](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-2/static/images/screenshot-with_filter.PNG)
 
-* Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+## Finished sites
+### Level 1
+[UFO finder](https://corters22.github.io/javascript-challenge/UFO-level-1/index.html)
 
-  1. `date/time`
-  2. `city`
-  3. `state`
-  4. `country`
-  5. `shape`
-
-- - -
+### Level 2
+[Bonus UFO finder](https://corters22.github.io/javascript-challenge/UFO-level-2/index.html)
