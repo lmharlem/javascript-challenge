@@ -1,6 +1,6 @@
 # Introduction to JavaScript - JavaScript and DOM Manipulation
 
-![UFO pic](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-1/static/images/ufo.jpg)
+![](UFO-level-1/static/images/OIP.jpg)
 
 ## Background
 
