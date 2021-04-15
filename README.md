@@ -19,13 +19,9 @@
 ## UFO Level 2: Multiple Search Categories
 
 - Included all criteria from Level 1
-- Added multiple input tags and/or select dropdowns, wrote JavaScript code [app.js](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-2/static/js/app.js) so the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+- Added multiple input tags and/or select dropdowns, wrote JavaScript code [app.js](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-2/static/js/app.js) so the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns: date/time, city, state, country, and shape
 
-        1. date/time
-        2. city
-        3. state
-        4. country
-        5. shape
+
 ## Finished sites
 ### Level 1
 [UFO finder](https://lmharlem.github.io/javascript-challenge/UFO-level-1/index.html)
