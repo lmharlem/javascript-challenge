@@ -7,7 +7,6 @@
 ### ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest. So we wrote a code that will create a table dynamically based upon the dataset provided. We also allowed our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
 
 ## Data
-<img align="right" width="300" height="250" src="https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/images/alien.jpg">
  - Found here [data.js](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/js/data.js)
  - Contains list of JavaScript Objects
 
