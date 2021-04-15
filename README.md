@@ -26,27 +26,6 @@
         3. state
         4. country
         5. shape
-
-## Screenshots of web page
-
-### Level 1
-
-No filter added
-![no filter](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/images/screenshot-no_filter.PNG)
-
-With Filter
-![filtered](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/images/screenshot-with_filter.PNG)
-
-### Level 2
-
-No filter added
-
-![no filter](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-2/static/images/screenshot-no_filter.PNG)
-
-With Filter
-
-![filtered](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-2/static/images/screenshot-with_filter.PNG)
-
 ## Finished sites
 ### Level 1
 [UFO finder](https://lmharlem.github.io/javascript-challenge/UFO-level-1/index.html)
