@@ -46,7 +46,7 @@ No filter added
 
 With Filter
 
-![filtered](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-2/static/images/screenshot-with_filter.PNG)
+![filtered](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-2/static/images/screenshot-with_filter.PNG)
 
 ## Finished sites
 ### Level 1
