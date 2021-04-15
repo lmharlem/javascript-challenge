@@ -7,15 +7,13 @@
 ### ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest. So we wrote a code that will create a table dynamically based upon the dataset provided. We also allowed our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
 
 ## Data
-
 <img align="right" width="300" height="250" src="https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/images/alien.jpg">
-- Found here [data.js](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/js/data.js)
-- Contains list of JavaScript Objects
+ - Found here [data.js](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/js/data.js)
+ - Contains list of JavaScript Objects
 
 ## UFO Level 1: Automatic Table and Date Search
-
 - Used the [index.html](https://https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/index.html) file provided.
-- Using the UFO dataset provided in the form of an array of JavaScript objects, I wrote code [app2.js]https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/js/app2.js) that appends a table to the web page and then adds new rows of data for each UFO sighting.
+- Using the UFO dataset provided, I wrote code [app2.js]https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/js/app2.js) that appends a table to the web page and then adds new rows of data for each UFO sighting.
 - There is a column for date/time, city, state, country, shape, and comment.
 - Used a date form in your HTML document and wrote JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
@@ -35,16 +33,16 @@
 ### Level 1
 
 No filter added
-![no filter](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-1/static/images/screenshot-no_filter.PNG)
+![no filter](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/images/screenshot-no_filter.PNG)
 
 With Filter
-![filtered](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-1/static/images/screenshot-with_filter.PNG)
+![filtered](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/images/screenshot-with_filter.PNG)
 
 ### Level 2
 
 No filter added
 
-![no filter](https://github.com/Corters22/javascript-challenge/blob/main/UFO-level-2/static/images/screenshot-no_filter.PNG)
+![no filter](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-2/static/images/screenshot-no_filter.PNG)
 
 With Filter
 
