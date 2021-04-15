@@ -1,4 +1,4 @@
-<h1 align="center"> The truth is out there. Aliens are real!<h1>
+<h1 align="center"> The truth is out there!<h1>
 
 <p align="center">
   <img width="1000" src="https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/images/abduction.jpg" alt="Alien Abduction">
