@@ -50,7 +50,7 @@ With Filter
 
 ## Finished sites
 ### Level 1
-[UFO finder](https://corters22.github.io/javascript-challenge/UFO-level-1/index.html)
+[UFO finder](https://lmharlem.github.io/javascript-challenge/UFO-level-1/index.html)
 
 ### Level 2
-[Bonus UFO finder](https://corters22.github.io/javascript-challenge/UFO-level-2/index.html)
+[Bonus UFO finder](https://lmharlem.github.io/javascript-challenge/UFO-level-2/index.html)
