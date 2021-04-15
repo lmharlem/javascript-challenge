@@ -22,7 +22,8 @@
 - Added multiple input tags and/or select dropdowns, wrote JavaScript code [app.js](https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-2/static/js/app.js) so the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns: date/time, city, state, country, and shape
 
 ## Finished sites
-<img align="right" width="200" height="200" src="https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/images/OIP.jpg">
+<img align="right" width="300" height="350" src="https://github.com/lmharlem/javascript-challenge/blob/main/UFO-level-1/static/images/OIP.jpg">
+
 ### Level 1
 [UFO finder](https://lmharlem.github.io/javascript-challenge/UFO-level-1/index.html)
 
